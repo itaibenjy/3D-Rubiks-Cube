@@ -12,7 +12,7 @@ To rotate the entire cube a certain angle on a specific axis I multiplied each v
 To calculate and to differ the 9 colors of each face I used simple algebra of subtracting two vectors(corners) in order to find the distance between them and that way I could find the third and two-thirds points between the two corners.
 
 ## Controls 
-* For 90 degree turn of the cube there is 4 arrows on screen to click on.
+* For 90 degree rotation of the cube there is 4 arrows on screen to click on.
 * For free rotation use the Arrow keys , Z and X. (note that you will need to press the center button that appears before keep turning the faces of the cube).
 * To turn each face use the letters that are commonly used in the Rubik's Cube terminology:
   * F - turn the forward face clockwise (f key)
